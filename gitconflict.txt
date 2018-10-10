@@ -1,4 +1,10 @@
 "cst" 
 Daniel
+"bye" 
 "hello" 
+<<<<<<< HEAD
 Danieldaniel
+=======
+Daniel
+
+>>>>>>> 1dd4564d048effbe73786535477eb2e49d653c15
