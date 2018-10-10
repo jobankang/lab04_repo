@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 "cst" 
-=======
 Daniel
->>>>>>> 58fb585ba4ad1519d53cd29ca67d3e7108356970
+"hello" 
+Daniel
