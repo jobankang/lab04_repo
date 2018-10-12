@@ -2,5 +2,14 @@
 Daniel
 "bye" 
 "hello" 
+<<<<<<< HEAD
 Daniel
 
+=======
+<<<<<<< HEAD
+Danieldaniel
+=======
+Daniel
+
+>>>>>>> 1dd4564d048effbe73786535477eb2e49d653c15
+>>>>>>> 3398027721acfaef9e0ace0c2b45e54c9fb69a96
